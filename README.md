@@ -4,6 +4,14 @@
 Script by Zegg
 
 --------------------------------
+## HOW TO USE
+```sh
+$ chmod 700 linux_checklist.sh
+$ ./linux_checklilst.sh > security_check.log
+$ cat security_check.log
+```
+
+--------------------------------
 ## UNIX SERVER
 ### 1. 계정 관리
 | code | checklist |
